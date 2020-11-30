@@ -14,14 +14,6 @@
   ],
   "tokens": [
     {
-      "name": "Bittreding ",
-      "address": "0xda5bd16781255a49ba780938d95d9fffa8c57fd7",
-      "symbol": "BTTD",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://user-images.githubusercontent.com/45679012/100583127-4d0b1f80-3310-11eb-8314-dd5c0930afdb.png"
-    },
-    {
       "name": "SushiToken",
       "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
       "symbol": "SUSHI",
